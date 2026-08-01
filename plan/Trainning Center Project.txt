@@ -1,0 +1,26 @@
+*Functional Requirement:*
+1. Admission Announcement; 
+2. Admission process; 
+3. Batch Management;
+4. Accounting;
+5. Project Management;
+6. Attanadance Management;
+7. Trainees and Trainer's ID Card Managment:
+8. HR Management;
+9. Branch Management;
+10. Certificate Management;
+11. Notice Board;
+12. Marketing Plan/ Management;
+13. Report Management;
+14. Trainee, Trainer, Visitor and Project Database Management;
+15. Assessment/ Exam Managment;
+16. Question bank
+
+
+
+* User Access Role & Permission Management
+* Trainee Performance Evaluation Dashboard
+* Alumni Network
+* Online Course Purchase & E-Commerce Module
+* Multilingual Support (Bangla + English)
+* Mobile App Support (Future-ready API design)

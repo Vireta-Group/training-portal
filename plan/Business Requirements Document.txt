@@ -1,0 +1,341 @@
+Business Requirements Document (BRD)
+Product Name: TrainingPro
+– The Most Complete SaaS Training Center + Government/NGO Project Management
+Platform for Bangladesh
+Version: 1.0 – Final (25 November 2025)
+Status: Ready for Client Presentation & Approval
+Company: ViretaDev
+© 2025 ViretaDev
+– All Rights Reserved | Confidential & Proprietary Document This document is the exclusive
+intellectual property of ViretaDev. Unauthorized copying, distribution, or reproduction is
+strictly prohibited.
+1. Executive Summary
+TrainingPro is a multi-tenant, white-label, Bangla-English bilingual SaaS platform designed to
+serve two major customer segments simultaneously:
+1. Private vocational training centers, IT institutes, and language schools
+2. Government, semi-government, and NGO skills development projects (SEIP, NSDA, NTPA, UCEP,
+BRAC, PKSF, etc.)
+The same software allows a private institute to run paid courses while also managing fully donor-
+funded or subsidized training projects with 100% compliance reporting in one click.
+2. Business Objectives & Success Metrics
+Objective
+Year-1 Target Year-2 Target
+Active Paying Tenants
+500+
+2,000+
+Monthly Recurring Revenue (MRR) BDT 5 Million BDT 25 Million
+Government/NGO Projects Won
+10+ projects
+50+ projects
+Churn Rate
+< 3%
+< 2%
+Net Promoter Score (NPS)
+75+
+85+
+3. Target Market Segments
+Segment
+Typical Size
+Expected MRR/Tenant
+Small Training Centers
+100–500 students
+BDT 6,000–10,000
+Medium-Sized Institutes
+500–2,000 students
+BDT 12,000–25,000
+Large/Multi-Branch Institutes 2,000+ students
+BDT 30,000–100,000+
+Government/NGO Projects
+1,000–50,000 trainees BDT 0.5–50 Million (project-based)
+4. Detailed Module-wise Business Requirements
+(Designed for client presentation – each module includes Business Value + Exact Features
+the client will see)
+#
+Module
+Business Value (Why the
+client needs it)
+Key Features (What the client will get)
+1 Super Admin
+Dashboard
+Full visibility and control
+over the entire SaaS
+business for the platform
+owner
+• Real-time tenant count & revenue dashboard
+(MRR, ARR, Churn) • Subscription expiry alerts •
+Top performing centers • Server health & backup
+status • Support ticket management
+#
+Module
+Business Value (Why the
+client needs it)
+Key Features (What the client will get)
+2
+Tenant
+Onboarding &
+Subscription
+New customers can sign
+up and start using the
+system in under 2 minutes
+• Public landing page → instant sign-up →
+payment → auto subdomain
+(centername.trainingpro.com) • 14-day free trial •
+bKash, Nagad, Card, Bank Transfer • Auto invoice
+& receipt generation
+3 Tenant Admin
+Dashboard
+Center owner sees the
+entire day’s performance
+at a glance
+• Today’s collection, new admissions, due fees •
+Attendance percentage • Top performing batches &
+trainers • Quick actions panel
+4 Branch
+Management
+Centers with multiple
+branches (Dhaka,
+Chattogram, Sylhet, etc.)
+can manage them
+separately
+• Create unlimited branches • Branch-wise P&L •
+Assign staff & students to specific branches
+5
+Course &
+Batch
+Management
+Run both regular paid
+courses and fully
+sponsored
+government/project
+batches side-by-side
+• Course → Batch → Section structure • Regular
+(paid) vs Project (free/sponsored) batches • Seat
+limit, syllabus upload, schedule
+6 Student
+Management
+Complete lifelong student
+profile – critical for
+government reporting
+• Photo, NID/Birth Certificate, guardian details •
+Educational background, reference • Document
+upload (PDF/JPG)
+7
+HR &
+Employee
+Management
+Manage trainers and staff
+salary, leave, and
+performance
+• Joining date, salary structure, leave balance •
+Employee attendance & payroll • Trainer
+performance rating
+8
+Enrollment &
+Fee
+Management
+Flexible fee collection
+with installments,
+discounts, and waivers
+• 3/6/12-month installment plans • Discount,
+scholarship, fee waiver • Auto due reminders via
+SMS & portal
+9
+Payment
+Gateway
+Integration
+Students can pay through
+any popular method in
+Bangladesh
+• bKash, Nagad, Rocket, SSLCommerz, Card,
+Bank Transfer • Instant receipt PDF • Partial
+payment & refund support
+10 Attendance
+System
+Mandatory for
+government projects –
+affects funding
+• Student mobile QR scan • Manual entry by
+trainer • Late entry marking • Monthly & project-
+wise reports
+11 Class Routine
+& Schedule
+Prevent class conflicts and
+share printable routines
+• Auto conflict detection • Room-wise & trainer-
+wise view • Printable PDF routine
+12
+Study
+Materials &
+Resources
+Students can study from
+home – increases
+completion rate
+• Folder-based structure • PDF, video embed
+(YouTube/Vimeo) • Download tracking
+13 Assessment
+Management
+Conduct MCQ, written,
+and practical exams with
+auto-grading
+• MCQ auto-grading, timer, negative marking •
+Descriptive answer PDF upload • Question
+randomization
+14 Question Bank Trainers create questions
+once and reuse forever
+• 10,000+ questions storage • Category, difficulty,
+tags • Excel import
+15 Exam & Result
+Management
+Publish results instantly
+with merit list
+• Auto marksheet, GPA/CGPA, merit position •
+Publish to student portal + SMS • Printable report
+card
+#
+Module
+Business Value (Why the
+client needs it)
+Key Features (What the client will get)
+16 Certificate
+Management
+Auto-generated
+professional certificates
+with online verification
+• Drag-and-drop template editor • QR code for
+online verification • Bulk generation & print
+17 Notice Board
+Instant communication
+with students and staff
+• Pin to top, expiry date • File/image attachment •
+Push notification
+18
+SMS & Email
+Notification
+System
+Automated
+communication for 50+
+events
+• Admission, fee due, result, birthday, etc. •
+Editable templates
+19
+Student &
+Employee ID
+Card
+Generator
+Professional ID cards with
+photos and QR codes
+• Front + back design editor • Batch printing (PDF)
+• QR links to profile
+20
+Project-Based
+Training
+Management
+The #1 reason to win
+government/NGO
+tenders – 100%
+compliant with SEIP,
+NSDA, NTPA formats
+• Project creation (donor, budget, MoU upload) •
+Trainee application → shortlist → selection •
+Stipend/allowance management + bank payment •
+Monthly/quarterly progress reports (ready
+NSDA/SEIP Excel/PDF) • Asset distribution &
+return tracking • Post-training job placement
+module
+21
+Marketing &
+Lead
+Management
+(Mini CRM)
+Convert
+Facebook/website leads
+into enrolled students
+• Lead source tracking (FB, website, walk-in) •
+Follow-up reminders • WhatsApp integration •
+Conversion funnel dashboard
+22
+Accounts &
+Expense
+Management
+Know exact profit-loss at
+any time
+• Daily expenses, salary sheet • Profit & loss,
+balance sheet • VAT/Tax reports
+23
+Reports &
+Analytics
+Dashboard
+40+ built-in reports +
+custom report builder
+• Fee collection, due list, branch comparison •
+Trainer/student performance • Export to Excel/PDF
+24 Student Portal
+Students access
+everything from
+home/mobile
+• Pay fees online • Download materials, results,
+certificates • View attendance & routine
+5. Non-Functional Requirements (Critical for Business)
+Category
+Requirement
+Priority
+Performance
+Page load < 2s, API response < 300ms
+High
+Scalability
+10,000+ tenants & 10 lakh+ students
+Critical
+Data Isolation
+Strict tenant_id separation
+Critical
+Security
+SSL, JWT, bcrypt, audit logs, rate limiting
+Critical
+Backup & Recovery
+Daily automated backup + 30-day retention
+High
+Uptime
+99.9% guaranteed
+High
+White-Label
+Custom logo, colors, subdomain, custom domain
+High
+Language Support
+Full Bangla + English (easy switch)
+High
+Mobile Responsive
+100% mobile & tablet friendly
+High
+6. Proposed Pricing Plans
+Plan
+Monthly Price
+Max
+Students
+Key Included Modules
+Starter
+BDT 5,990
+300
+Core modules only
+Professional BDT 11,990
+1,000
++ HR + Marketing + Project
+Management
+Enterprise
+BDT 24,990+
+Unlimited
++ Custom domain + API + Priority
+support
+Project
+BDT 0.5–50 lakh (one-
+time/custom)
+As per
+project
+Full features + custom donor reports
+Prepared by: ViretaDev Team
+Approved by:
+Managing Director,
+ViretaDev
+Date: ________________________
+© 2025 ViretaDev – All Rights Reserved This document is strictly confidential and the
+exclusive property of ViretaDev. Any unauthorized use, copying, or distribution is prohibited
+and will be treated as violation of intellectual property rights.
